@@ -2,6 +2,7 @@
  optimized SQL queries. Built with pgAdmin, it supports trend analysis, customer segmentation, and sales performance tracking.
 
 ⚙️ Features
+
 🧹 Data Cleaning – NULL value removal, data integrity checks
 
 📈 Trend Analysis – Monthly sales patterns with EXTRACT() and RANK()
